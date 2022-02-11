@@ -106,9 +106,8 @@ textarea:focus, input:focus {
   box-sizing: border-box;
   color: white;
   background: rgb(0,191,255);
-  opacity: 0.5;
   width: 65%;
-  border-radius: 8%;
+  border-radius: 8px;
 }
 
 .help {
