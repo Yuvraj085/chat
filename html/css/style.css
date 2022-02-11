@@ -38,14 +38,14 @@ em {
   left: 15px;
   width: 32vw;
   height: 20vh;
-  background-color: rgba(0, 0, 0, 0);
+  background-color: rgba(255,255,255);
   top: 5vh;
   -webkit-animation-duration: 2s;
 }
 
 .chat-messages {
   max-height: 100%;
-  font-size: 12px;
+  font-size: 14px;
   overflow-x: hidden;
   overflow-y: hidden;
   display: flex;
@@ -105,7 +105,7 @@ textarea:focus, input:focus {
   font-size: 0.9rem;
   box-sizing: border-box;
   color: white;
-  background: rgb(0,191,255);
+  background-color: rgba(255,255,255, 0.1);
   width: 65%;
   border-radius: 8px;
 }
