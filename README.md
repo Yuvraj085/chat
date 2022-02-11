@@ -19,5 +19,5 @@ TLRP Chat Box Script
 
 
                    !IMPORTANT!
-             !I'm not real Author!
+             !I'm Not Real Author!
 I didn't create this script, just edited style.css.
