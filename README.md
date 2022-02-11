@@ -16,3 +16,8 @@ TLRP Chat Box Script
   </p>
 </p>
 <div/>
+
+
+                   !IMPORTANT!
+             !I'm not real Author!
+! I didn't create this script, just edited style.css. !
