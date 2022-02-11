@@ -6,7 +6,8 @@
 <div >
 <p align="center">
   <a href="">
-    <img src="https://i.ibb.co/R7Syyfc/chatbox.png" alt="Logo" width="50%" height="50%" >
+    <img src="https://i.ibb.co/R7Syyfc/chatbox.png" alt="Logo" width="50%" height="50%" > 
+    <img src="https://i.ibb.co/c6Cqpwq/chat.png" alt="Logo" width="50%" height="50%" >
   </a>
   <p align="center">
 TLRP Chat Box Script
