@@ -105,8 +105,7 @@ textarea:focus, input:focus {
   font-size: 0.9rem;
   box-sizing: border-box;
   color: white;
-  background-color: rgba(0, 0, 0, 0.5);
-  border: 1px solid rgba(0, 0, 0, 0.5);
+  background: rgb(0,212,255,1);
   width: 65%;
   border-radius: 5%;
 }
